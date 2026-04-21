@@ -1,23 +1,22 @@
-# portafolio-web-react
+# ⚛️ portafolio-web-react
 
-Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
+Proyecto web basado en **React** para construir o experimentar con un portafolio personal en formato SPA.
 
----
+![React](https://img.shields.io/badge/React-web-61DAFB?logo=react)
 
-## 📌 Objetivo
+## Descripción
 
-Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
+Su propósito es servir como base visual para presentar proyectos, experiencia, habilidades o identidad profesional desde una interfaz moderna.
 
-## 📁 Revisión recomendada
+## Objetivo
 
-Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
+Desarrollar una versión web del portafolio personal utilizando React como framework principal.
 
-```bash
-git clone git@github.com:Carl0gonzalez/portafolio-web-react.git
-cd portafolio-web-react
-```
+## Uso
 
-## 👤 Autor
+Revisa `package.json` y ejecuta el proyecto con el flujo estándar del stack React definido en el repositorio.
+
+## Autor
 
 **Carlo González**
 
